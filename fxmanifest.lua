@@ -7,7 +7,5 @@ version '1.0.0'
 
 shared_script 'config.lua'
 
-client_script 'client.lua'
-server_script 'server.lua'
-
-lua54 'yes'
+client_script 'Client/client.lua'
+server_script 'Server/server.lua'

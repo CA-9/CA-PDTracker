@@ -5,7 +5,7 @@ A police tracking device to track any vehicle. The device can only be used near 
 Go to qb-core/shared/items.lua**
 
 ``` 
---ca tracker
+--CA vehicle tracker
     ["car_tracker"] = {
     ["name"] = "car_tracker",
     ["label"] = "Vehicle tracking device",
